@@ -74,7 +74,8 @@ Supply chains in the FMCG sector are prone to inefficiencies, especially due to 
 |------|-------------|
 | `SCM_Contracts_Analysis.pdf` | Final presentation deck |
 | `SCM_Contracts_Model.xlsx` | Google Sheet-based analysis |
-
+[View Final Presentation (PDF)](https://docs.google.com/presentation/d/1GwU9l5t5FNOIwTAHD0ykT1KvfgunOVFzCatSt8mCnaA/edit?usp=sharing)    
+[Open Excel Model (Google Sheets)](https://docs.google.com/spreadsheets/d/1eobE7xVc1MCkicMm7RGdEnXxFdUsm9oAd-VdhvPYZwY/edit?usp=sharing)
 ---
 
 ## 🔐 License
