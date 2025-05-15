@@ -1,4 +1,4 @@
-# Simulation and Analysis of Supply Chain Contracts in the FMCG Sector (Milk)
+# Simulation and Analysis of Supply Chain Contracts in the FMCG Sector (Dairy)
 
 ## 📌 Objective
 To simulate and evaluate the effectiveness of different supply chain contracts—such as **Buyback**, **Revenue-Sharing**, and **Cost-Sharing**—in an FMCG context, using milk as a case product. The goal is to understand how contract design impacts costs, risks, margins, and coordination between suppliers and retailers.
